@@ -1,2 +1,7 @@
 
 .DS_Store
+
+.Rproj.user/CE091425/sources/prop/
+
+data/*
+!data/README.md
